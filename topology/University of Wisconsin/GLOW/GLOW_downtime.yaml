@@ -3039,3 +3039,14 @@
   Services:
   - CE
 # ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1325956733
+  Description: Updating to OSG 3.6
+  Severity: Intermittent Outage
+  StartTime: Nov 07, 2022 15:30 +0000
+  EndTime: Nov 07, 2022 20:00 +0000
+  CreatedTime: Nov 04, 2022 21:01 +0000
+  ResourceName: GLOW
+  Services:
+  - CE
+# ---------------------------------------------------------
